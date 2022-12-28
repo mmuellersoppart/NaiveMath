@@ -1,0 +1,4 @@
+name = "NaiveMath"
+uuid = "601a0553-f23d-4ab6-9000-f2b4287ffbe1"
+authors = ["mmuellersoppart <mmuellersoppart@gmail.com>"]
+version = "0.1.0"
